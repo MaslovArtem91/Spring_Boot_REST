@@ -1,0 +1,6 @@
+version: '1'
+
+services:
+  build: ./
+  ports:
+    - '9999:9999'
